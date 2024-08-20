@@ -1,0 +1,12 @@
+Há na atualidade uma grande diversidade de linguagens para programação. Escolhi estas 3 para compará-las: a. Python, b. C++, c. Swift. As principais diferenças serão descritas a seguir: A python é uma das linguangens de sintaxe mais simples disponíveis para programação mas é interpretada e de alto nível. Dentre suas vantagens, destacam-se ser ideal para iniciantes e usada em desenvolvimento web, ciência de dados e automação, mas seus pontos negativos são que esta linguagem é mais lenta quando comparada a outras linguagens. Já o C++ é compilado e de médio e baixo nível, mas sua sintaxe é mais complexa e há controle detalhado sobre hardware. É rápida e eficiente, neste quesito sendo melhor que o Python e perfeita para desenvolvimento de sistemas, jogos e aplicações que exigem alta performance. Já a Swift, é, assim como C++, compilada e moderna que foi projetada para ser segura e de fácil utilização. É a mais utilizada para o desenvolvimento de aplicações para iOS e macOS. Oferece um bom equilíbrio entre desempenho e segurança.
+1.a. Python: print("Olá, mundo!")
+1.b. C++: #include <iostream>
+
+int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0;
+}
+1.c. Swift: import Foundation
+
+print("Olá, mundo!")
+1.b. 
